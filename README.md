@@ -1,4 +1,3 @@
-# Java/Python3
 ### Basic Java and Python programs
 
 ---
